@@ -11,3 +11,5 @@ The following user stories are implemented and tested using Xry in Jira Cloud.
 | User Story | Test                        | Status |
 | ---------- | --------------------------- | ------ |
 | Add a task | Add item functionality test | Passed |
+| Delete a task | Delete task functionality | Passed |
+| Edit a task | Edit task functionality | Failed |
